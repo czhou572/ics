@@ -56,7 +56,7 @@
 		</ul>
 		
 	<h2 style="font-family:Georgia;color:#F14A29;background-color:#EFEFEF;padding:5px;margin-left:10px">DIRECTIONS</h2>
-        <ol style="margin-left:5px">
+        <ol style="margin-left:25px">
         	<li style="font-size:14pt;font-family:Helvetica;color:#4A3416;margin-left:25px">In a small bowl, whisk together the soy sauce, water, peanut butter, and chili paste until smooth.</li>
         	<li style="font-family:Helvetica;color:#4A3416;margin-left:25px"><strong>Cook the veggies and meat:</strong></li>	
         		<div>
@@ -82,8 +82,7 @@
         		</div>
         </ol>		
 	<h2 style="font-family:Georgia;color:#F14A29;background-color:#EFEFEF;padding:5px;margin-left:10px">USER COMMENTS</h2>
-		<p style="font-size:14pt;font-family:Helvetica;color:#4A3416;border:1px dashed #DEDEDE;background-color:#FAFAFA;margin-left:40px;padding:10px"><img style="float:left; top: 10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\callout.png"/>This may not be a traditional or authentic pad thai recipe, but it's simple, flavorful, and very delicious!<br style="margin:56px">-Alfred Appetite</p> 
-		<p style="font-size:14pt;font-family:Helvetica;color:#4A3416;border:1px dashed #DEDEDE;background-color:#FAFAFA;margin-left:40px;padding:10px"><img style="float:left; top: 10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\callout.png"/>A quick recipe for a great version of Thailand's best. Nicely done!<br style="margin:56px">-Emily Eats</p>
+		<p style="font-size:14pt;font-family:Helvetica;color:#4A3416"><img style="float:left"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\callout.png"/>This may not be a traditional or authentic pad thai recipe, but it's simple, flavorful, and very delicious!<br style="margin:56px">-Alfred Appetite</p> 
 	<h2 style="font-family:Georgia;color:#F14A29;background-color:#EFEFEF;padding:5px;margin-left:10px">OTHER PAD THAI RECIPES</h2>
 		<div>
 			<a href="http://allrecipes.com/search/default.aspx?qt=k&wt=pad%20thai&rt=r&origin=Home%20Page" style="font-size:14pt;font-family:Helvetica;color:#4A3416;text-decoration:none;margin-left:25px">>>Allrecipes</a>   	
@@ -94,7 +93,6 @@
 		<div>
 			<a href="http://www.bettycrocker.com/search/searchresults?term=pad%20thai&ps=12&pi=1"style="font-size:14pt;font-family:Helvetica;color:#4A3416;text-decoration:none;margin-left:25px">>>Betty Crocker</a>
 		</div>
-		<br>
 		<div>
 			<img style="border:1px solid #4A3416;background-color:#F7F3DA;padding:10px;margin-left:25px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\valid-html5.png" />
 			<img style="border:1px solid #4A3416;background-color:#F7F3DA;padding:10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\valid-css3.gif" />
