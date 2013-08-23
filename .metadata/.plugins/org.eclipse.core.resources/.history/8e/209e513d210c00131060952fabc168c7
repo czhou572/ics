@@ -8,7 +8,7 @@
 <body>
 	<h1 style="font-size:40pt;color:#F14A29;font-family:Georgia;background-color:#EFEFEF;padding:5px;margin-left:10px">PAD THAI RECIPE</h1>
 	<img style="border:1px solid #4A3416;background-color:#F7F3DA;padding-left:12px;padding-right:12px;padding-top:12px;padding-bottom:12px;margin-left:25px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\padthai.jpg" />
-	<table style="margin-left:25px;margin-top:25px">
+	<table style="margin-left:25px">
             <tr>
                 <td style="font-family:Helvetica;color:#4A3416"><strong>Prep Time</strong></td>
                 <td style="font-size: 14pt;font-family: Helvetica;color:#4A3416;border-left-color:#00000;border-left-style:solid;border-left-width:1px">15 Minutes</td>     
@@ -82,8 +82,8 @@
         		</div>
         </ol>		
 	<h2 style="font-family:Georgia;color:#F14A29;background-color:#EFEFEF;padding:5px;margin-left:10px">USER COMMENTS</h2>
-		<p style="font-size:14pt;font-family:Helvetica;color:#4A3416;border:1px dashed #DEDEDE;background-color:#FAFAFA;margin-left:40px;padding:10px"><img class="picture" style="float:left; top: 10px;margin:10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\callout.png"/>This may not be a traditional or authentic pad thai recipe, but it's simple, flavorful, and very delicious!<br style="margin:56px">-Alfred Appetite</p> 
-		<p style="font-size:14pt;font-family:Helvetica;color:#4A3416;border:1px dashed #DEDEDE;background-color:#FAFAFA;margin-left:40px;padding:10px"><img class="picture" style="float:left; top: 10px;margin:10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\callout.png"/>A quick recipe for a great version of Thailand's best. Nicely done!<br style="margin:56px">-Emily Eats</p>
+		<p style="font-size:14pt;font-family:Helvetica;color:#4A3416;border:1px dashed #DEDEDE;background-color:#FAFAFA;margin-left:40px;padding:10px"><img style="float:left; top: 10px;margin:10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\callout.png"/>This may not be a traditional or authentic pad thai recipe, but it's simple, flavorful, and very delicious!<br style="margin:56px">-Alfred Appetite</p> 
+		<p style="font-size:14pt;font-family:Helvetica;color:#4A3416;border:1px dashed #DEDEDE;background-color:#FAFAFA;margin-left:40px;padding:10px"><img style="float:left; top: 10px;margin:10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\callout.png"/>A quick recipe for a great version of Thailand's best. Nicely done!<br style="margin:56px">-Emily Eats</p>
 	<h2 style="font-family:Georgia;color:#F14A29;background-color:#EFEFEF;padding:5px;margin-left:10px">OTHER PAD THAI RECIPES</h2>
 		<div>
 			<a href="http://allrecipes.com/search/default.aspx?qt=k&wt=pad%20thai&rt=r&origin=Home%20Page" style="font-size:14pt;font-family:Helvetica;color:#4A3416;text-decoration:none;margin-left:25px">>>Allrecipes</a>   	
@@ -96,8 +96,8 @@
 		</div>
 		<br>
 		<div>
-			<img class="picture" style="border:1px solid #4A3416;background-color:#F7F3DA;padding:10px;margin-left:25px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\valid-html5.png" />
-			<img class="picture" style="border:1px solid #4A3416;background-color:#F7F3DA;padding:10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\valid-css3.gif" />
+			<img style="border:1px solid #4A3416;background-color:#F7F3DA;padding:10px;margin-left:25px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\valid-html5.png" />
+			<img style="border:1px solid #4A3416;background-color:#F7F3DA;padding:10px"src="C:\Users\czhou572\Desktop\GitHub\ics\padthai_christinazhou\images\valid-css3.gif" />
 		</div>
 
 </body>
